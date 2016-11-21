@@ -4,7 +4,7 @@ package com.example.kmlsz.repositories;
  * Created by kmlsz on 21.11.2016.
  */
 
-public class GitHubRepository {
+public class GithubRepository {
     private long id;
     private String name;
     private String htmlUrl;
